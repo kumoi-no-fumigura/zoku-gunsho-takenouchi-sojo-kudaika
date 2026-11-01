@@ -736,6 +736,10 @@
    "kotobagaki": "中有白鵬閑似我為広"
   }
  ],
+ "translation": {
+  "count": 5,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-takenouchi-sojo-kudaika",
   "work": "竹内僧正句題歌",
@@ -748,7 +752,7 @@
   "blocks": 5,
   "chars": 1578,
   "poems": 43,
-  "yaku": 0,
+  "yaku": 5,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T00:09:37+09:00"
